@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"ro.uaic.info.georgeboghez.compulsory","l":"Canvas"},{"p":"ro.uaic.info.georgeboghez.compulsory","l":"Main"}]
